@@ -37,6 +37,12 @@ Para cada contribuinte será concedido um desconto de 5% do valor Salário Míni
 * Os contribuintes não precisam ser persistidos em um banco de dados, porém conhecimento em algum Framework de ORM será bem-vindo;
 * Testes unitários, divisão das camadas, modelagem, design patterns são fatores que serão levados em conta;
 
+
+## Sobre o projeto
+
+O projeto Imposto de Renda, tem o intuito de demonstrar uma aplicação em .Net Core para realizar cálculo de imposto de renda.
+
+
 ## Recursos utilizados no desenvolvimento da aplicação:
 
 **Ferramentas**
@@ -69,10 +75,6 @@ Para cada contribuinte será concedido um desconto de 5% do valor Salário Míni
 |Repositório de Dados (Repository Pattern) |[Tutorial][GuiaRepositoryPattern] |N/A               |
 |SOLID                                     |N/A                               |N/A               |
 |Clean Code                                |N/A                               |N/A               |
-
-## Sobre o projeto
-
-O projeto Imposto de Renda, tem o intuito de demonstrar uma aplicação em .Net Core para realizar cálculo de imposto de renda.
 
 
 ## Mendigo de estrelas :star:
